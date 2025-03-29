@@ -11,6 +11,7 @@ export default function Index() {
     >
       <Image source={require('../assets/images/react-logo.png')} />
       <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text>123</Text>
     </View>
   );
 }
